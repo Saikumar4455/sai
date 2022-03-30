@@ -1,0 +1,9 @@
+what is the difference between touched, dirty,and valid ?
+what are different types of forms in angular?
+>Template driven form?
+>Reactive forms?
+What is string interploation?
+what is property binding?
+what is event binding?
+what is 2 way binding?
+what is Data Validation? 

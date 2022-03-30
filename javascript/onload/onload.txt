@@ -1,0 +1,13 @@
+FAQs
+How to link css with html?
+	By useing link tag, we can link css with html
+	Example: <link rel="stylesheet" href="filename.css">
+--
+How to link js with html?
+	By useing script tag, we can link js with html
+	Example: <script src="filename.js"></script>
+--	
+How to excute some javascript logic at the time of page load?
+	call The javascript method on onload attribute of body tag.
+	Example: <body onload="javascriptmethod();">
+--

@@ -1,0 +1,34 @@
+sdlc
+ software development life cycle
+first phase in sdlc requriment collection
+BA:Business Analyst
+BRS:Business requriment specification
+URS:User requriment specification 
+SRS:system software requriment specification
+
+Feasibility study  The project is accept or not
+   *Budget/cost
+   *Time
+   *requriment
+RFP:request for praposal
+SLA:service level aggrement
+
+Requriment analysis
+
+SA:system analysis  
+FRS:Functional requriment specification
+Design 
+DA:design architect
+GUI:graphical user interface
+db:database designing
+application desinging: High level desing
+                       Low level design
+Module:some portion of application is called module
+Modulazation:A large project will be divided into multiple modules for a easy development
+SCD:source code document 
+QA:Quality analyst
+UAT:User acceptance Testing
+ 
+CR:change request
+CCB:change control board 
+					   

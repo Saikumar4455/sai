@@ -1,0 +1,31 @@
+JavaScript Data Types
+	JavaScript variables can hold different data types: numbers, strings, objects and more:
+	let length = 16;                               // Number
+	let lastName = "Johnson";                      // String
+	let x = {firstName:"John", lastName:"Doe"};    // Object
+	
+The Concept of Data Types
+In programming, data types is an important concept.
+To be able to operate on variables, it is important to know something about the type.
+Without data types, a computer cannot safely solve this:
+
+JavaScript Types are Dynamic
+     JavaScript has dynamic types. This means that the same variable can be used to hold different data types:
+JavaScript Strings
+ A string (or a text string) is a series of characters like "John Doe".
+ Strings are written with quotes. You can use single or double quotes:	 
+
+JavaScript Numbers
+	JavaScript has only one type of numbers.
+	Numbers can be written with, or without decimals:
+what is JavaScript Booleans?
+	Booleans can only have two values: true or false. 
+The type of Operator
+  You can use the JavaScript typeof operator to find the type of a JavaScript variable.
+  The typeof operator returns the type of a variable or an expression:	
+what is Undefined?
+	In JavaScript, a variable without a value, has the value undefined. The type is also undefined.
+what is Empty Values?
+  An empty value has nothing to do with undefined.
+  An empty string has both a legal value and a type.
+	

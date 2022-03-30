@@ -1,0 +1,9 @@
+JavaScript Const
+	The const keyword was introduced in ES6 (2015).
+	Variables defined with const cannot be Redeclared.
+	Variables defined with const cannot be Reassigned.
+	Variables defined with const have Block Scope.
+Cannot be Reassigned
+   A const variable cannot be reassigned:	
+Must be Assigned
+	JavaScript const variables must be assigned a value when they are declared:   

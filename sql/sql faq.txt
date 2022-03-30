@@ -1,0 +1,40 @@
+what is unique key?
+	The UNIQUE constraint ensures that all values in a column are different. 
+	Both the UNIQUE and PRIMARY KEY constraints provide a guarantee for uniqueness for a column or set of columns
+what is primary key?
+	The PRIMARY KEY constraint uniquely identifies each record in a table.
+	Primary keys must contain UNIQUE values, and cannot contain NULL values. 
+	A table can have only ONE primary key; and in the table, this primary key can consist of single or multiple columns (fields).
+what is foreign key?
+   A FOREIGN KEY is a field (or collection of fields) in one table, that refers to the PRIMARY KEY in another table. 
+   The table with the foreign key is called the child table, and the table with the primary key is called the referenced or parent table.	
+what is differences between unique key primary key foreign key?
+	A primary key is used to ensure data in the specific column is unique. 
+	A foreign key is a column or group of columns in a relational database table that provides a link between data in two tables.
+	It uniquely identifies a record in the relational database table.
+what is schema?
+		In a SQL database, a schema is a list of logical structures of data. A database user owns the schema,
+		which has the same name as the database manager.
+		As of SQL Server 2005, a schema is an individual entity (container of objects) distinct from the user who constructs the object.
+what is user? 
+	A User allows you to log into a SQL Server database and is mapped to a Login.
+	So you will need to first create a Login, before you can create a User in SQL Server.
+what is differences between schema and user?
+	A schema is collection of database objects, including logical structures such as tables, views, sequences, stored procedures, synonyms, indexes, clusters, and database links. A user owns a schema. 
+	A user and a schema have the same name. The CREATE USER command creates a use
+what is sequences?
+	A sequence is a user defined schema bound object that generates a sequence of numeric values. Sequences are frequently used in many databases because many applications require each row in a table to contain a unique value and sequences provides an easy way to generate them
+what is trigger?
+	A trigger is a special type of stored procedure that automatically runs when an event occurs in the database server. DML triggers run when a user tries to modify data through a data manipulation language (DML) event. DML events are INSERT, UPDATE, or DELETE statements on a table or view
+	
+How to create a Table?
+	syntax:CREATE TABLE table_name(
+	column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+	
+What is the differences between drop and truncate?
+	In SQL, the DROP command is used to remove the whole database or table indexes, data, and more. Whereas the TRUNCATE command is used to remove all the rows from the table.
+	
