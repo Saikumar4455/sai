@@ -1,0 +1,29 @@
+What is version control system?
+	version control system is a software that tracks changes to a file or set of files overtime so that you can recall specific
+	versions later 
+	It also allows you to work together with other programmers
+What are the version software you know?
+	CVS
+	SVN
+	visual SVN
+	GIT
+	GITHUB BITBUCKET GERRIT
+What are version software that you  have experience on?
+	git
+	github	
+
+How to create repository?
+	Git version control system allows you to share projects among developers. For learning Git, it is essential to understand that how can we create a project on Git. A repository is a directory that contains all the project-related data. There can also be more than one project on a single repository.
+
+	We can create a repository for blank and existing projects. Let's understand how to create a repository.
+
+How to clone repository?
+	In Git, cloning is the act of making a copy of any target repository. The target repository can be remote or local. You can clone your repository from the remote repository to create a local copy on your system. Also, you can sync between the two locations.
+How to commit?
+	The commit command will commit the changes and generate a commit-id. The commit command without any argument will open the default text editor and ask for the commit message. We can specify our commit message in this text editor. It will run as follows
+What is push?
+	The push term refers to upload local repository content to a remote repository. Pushing is an act of transfer commits from your local repository to a remote repository. Pushing is capable of overwriting changes; caution should be taken when pushing.
+What is pull?
+	The term pull is used to receive data from GitHub. It fetches and merges changes from the remote server to your working directory. The git pull command is used to pull a repository.
+What is fetch?
+	Git "fetch" Downloads commits, objects and refs from another repository. It fetches branches and tags from one or more repositories. It holds repositories along with the objects that are necessary to complete their histories to keep updated remote-tracking bran
